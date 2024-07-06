@@ -28,12 +28,6 @@ Carbon Katha is a sustainable project aimed at reducing carbon footprint and pro
    - To know your company's Carbon Footprint, please contact us
 
 
-## Contributors
-- [Mehul Aswar](https://github.com/mehulaswar06)
-- [Nandini Singh](https://github.com/HeyfromNandini)
-- [Jutika Patil](https://github.com/jutikapatil16)
-- [Anamika Nevase](https://github.com/anamika-netizen)
-
 ## APP & Website Links (We are still improving so some features might not act properly)
 App Link : [Click here](https://drive.google.com/drive/folders/1tqAnPH55TKr-7teuUiLM72a5b0WgF0CE)
 Website Link : [Click here](https://projectcarbonkatha.vercel.app/) 
