@@ -36,7 +36,7 @@ Website Link : [Click here](https://projectcarbonkatha.vercel.app/)
 We welcome contributions from developers, designers, and sustainability enthusiasts to help us further develop and improve Carbon Katha. Feel free to fork the repository, submit pull requests, or reach out to the contributors for collaboration opportunities.
 
 ## Contact Us
-For any inquiries or feedback, please contact us at [projectcarbonkatha@gmail.com](mailto:projectcarbonkatha@gmail.com).
+For any inquiries or feedback, please contact us at [projectcarbonkatha@gmail.com](mailto:nandinisingh.here@gmail.com).
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
